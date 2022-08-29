@@ -1,0 +1,1 @@
+Este archivo es una hoja de estilos que permite que personalice una página web, de tal manera que su contenido sea distribuido como un Dashboard. Puede ser implementado en Java Web, ASP.NET o lenguajes de programación orientada a la web
